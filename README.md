@@ -40,14 +40,3 @@ I'm a bachelor Electrical Engineer, among some things which who likes:  financia
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljlima&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ljlima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-## Snake friend
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-![Snake animation](https://github.com/ljlima/ljlima/blob/output/github-contribution-grid-snake.svg)
-
