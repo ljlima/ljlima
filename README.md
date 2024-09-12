@@ -41,5 +41,8 @@ I'm a bachelor Electrical Engineer, among some things which who likes:  financia
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ljlima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+## Snake friend
+<div>
+ ![Snake animation](https://github.com/ljlima/ljlima/blob/output/github-contribution-grid-snake.svg)
+</div>
 
-![Snake animation](https://github.com/ljlima/ljlima/blob/output/github-contribution-grid-snake.svg)
