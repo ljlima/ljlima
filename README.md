@@ -1,11 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Jean!
 
-I'm a bachelor Electrical Engineer, among some things which who likes:  financial market, software development and music and learning!
-
-## I worked
- - Scientific Initiation of  power flow improvement in Eletric Power System at [lapisep](https://github.com/lapisep)
- - Monitoring in Microprocessors at Federal University of Mato Grosso
+Some things which who likes:  financial market, software development and music and learning!
 
 ## 🔭 I’m currently working on
 <div>
